@@ -1,6 +1,3 @@
-
-console.log('this is clint side java script')
-
      const weatherform = document.querySelector('form')
      const search = document.querySelector('input')
      const messageone = document.querySelector('#message1')
